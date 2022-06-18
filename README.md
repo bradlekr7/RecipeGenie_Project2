@@ -8,10 +8,7 @@ Android Studio * Kotlin * Retrofit
 IntelliJ IDEA * SQLite * Mockito
 VS Studio Code * XML * Postman
 
-Contributors
-
+Contributors:
 Elmer Orellana
-
 Corey Glaze
-
 Krystal Bradley
