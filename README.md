@@ -9,6 +9,7 @@ IntelliJ IDEA * SQLite * Mockito
 VS Studio Code * XML * Postman
 
 Contributors:
-Elmer Orellana
-Corey Glaze
+Elmer Orellana,
+Corey Glaze,
 Krystal Bradley
+
