@@ -21,7 +21,7 @@ internal storage.
 
 
 ## Contributors:
-*Elmer Orellana,
-*Corey Glaze,
-*Krystal Bradley
+Elmer Orellana,
+Corey Glaze,
+Krystal Bradley
 
